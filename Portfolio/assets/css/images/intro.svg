@@ -3,8 +3,8 @@
     <style type="text/css"><![CDATA[
 		line
 		{
-			stroke: rgba(125,125,0,0.50);
-			stroke-width: 1px;
+			stroke: rgba(182,78,145,255);
+			stroke-width: 0.25px;
 		}
     ]]></style>
 
